@@ -1,4 +1,4 @@
-# How install old python:
+# Install local Python:
 To install a local version of Python (e.g., Python 3.10.12) in a virtual environment on Ubuntu without replacing the global system version of Python (e.g., Python 3.12.3), follow these steps:
 
 1. Install Required Tools
