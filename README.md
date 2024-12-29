@@ -1,3 +1,4 @@
 # ubuntu
 **Using Ubuntu 24.04.1 LTS for ML**
-- [How install old python](https://github.com/AndriiVasylenkoML/ubuntu/new/main)
+- [Install local Python](https://github.com/AndriiVasylenkoML/ubuntu/blob/main/install_local_python.md)
+- [Local Python create venv](https://github.com/AndriiVasylenkoML/ubuntu/blob/main/local_python_create_venv.md)
