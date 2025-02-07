@@ -60,7 +60,7 @@ sudo apt install zsh-autosuggestions zsh-syntax-highlighting
 Open the `.zshrc` configuration file in a text editor:  
 
 ```sh
-nano ~/.zshrc
+vi ~/.zshrc
 ```
 
 Find the line that says:  
