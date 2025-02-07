@@ -75,7 +75,7 @@ Replace it with:
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete)
 ```
 
-Save and exit (in nano, press `CTRL + X`, then `Y`, and press `Enter`).  
+Save and exit (in vim, press `Shift + :`, then `:wq`, and press `Enter`).  
 
 ## Step 8: Apply Changes  
 
