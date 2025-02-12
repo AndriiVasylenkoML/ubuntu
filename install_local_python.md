@@ -29,9 +29,8 @@ make altinstall
 - The make altinstall command prevents overwriting the default python3 binary.
 - Python will be installed in the $HOME/python-3.10.12 directory.
 4. Add Python to PATH
-Append the following line to your ~/.bashrc or ~/.zshrc file:
+Append the following line to your ~/.bashrc or ~/.zshrc file and select directory for work with python3.10.12:
 ```
-cd ~
 export PATH=$HOME/python-3.10.12/bin:$PATH
 ```
 Reload the shell configuration:
