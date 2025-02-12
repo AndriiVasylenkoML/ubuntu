@@ -31,6 +31,7 @@ make altinstall
 4. Add Python to PATH
 Append the following line to your ~/.bashrc or ~/.zshrc file:
 ```
+cd ~
 export PATH=$HOME/python-3.10.12/bin:$PATH
 ```
 Reload the shell configuration:
