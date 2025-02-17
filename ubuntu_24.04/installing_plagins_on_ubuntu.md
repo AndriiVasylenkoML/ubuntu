@@ -85,4 +85,3 @@ reboot
 * Vitals
 * GSConnect
 * X11 Gestures
-* Rounded Window Corners Reborn

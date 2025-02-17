@@ -1,9 +1,14 @@
-# ubuntu
+# Linux for machine learning
 
-**Using Ubuntu 24.04.1 LTS for ML**
+**Desktop Ubuntu 24.04.1 LTS**
 
-- [Install local Python](https://github.com/andriivasylenkoml/linux/ubuntu_24.04/ubuntu/blob/main/install_local_python.md)
-- [Local Python create venv](https://github.com/andriivasylenkoml/linux/ubuntu_24.04/ubuntu/blob/main/local_python_create_venv.md)
-- [Install ZSH Ubuntu](https://github.com/andriivasylenkoml/linux/ubuntu_24.04/ubuntu/blob/main/install_zsh_ubuntu.md)
-- [Installing Plagins On Ubuntu](https://github.com/andriivasylenkoml/linux/ubuntu_24.04/ubuntu/blob/main/installing_plagins_on_ubuntu.md)
-    
+- [Install local Python](https://github.com/andriivasylenkoml/linux/blob/main/ubuntu_24.04/install_local_python.md)
+- [Local Python create venv](https://github.com/andriivasylenkoml/linux/ubuntu_24.04//blob/main/local_python_create_venv.mdhttps://github.com/andriivasylenkoml/linux/blob/main/ubuntu_24.04/local_python_create_venv.md)
+- [Install ZSH Ubuntu](https://github.com/andriivasylenkoml/linux/blob/main/ubuntu_24.04/install_zsh_ubuntu.md)
+- [Installing Plagins On Ubuntu](https://github.com/andriivasylenkoml/linux/blob/main/ubuntu_24.04/install_zsh_ubuntu.md)
+
+# Amazon Linux
+
+**EC2 of Amazon Linux**
+
+- [install_local_python.md]()
