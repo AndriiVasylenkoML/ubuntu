@@ -11,4 +11,4 @@
 
 **EC2 of Amazon Linux**
 
-- [install_local_python.md]()
+- [Install Local Python.md](https://github.com/andriivasylenkoml/linux/blob/main/amazon_linux/install_local_python.md)
